@@ -3,4 +3,4 @@ name:
    first: Lakshay
    last: Sharma
 email: ls4170@nyu.edu
-leaderboard: el_sharma_93
+leaderboard: el_sharma
