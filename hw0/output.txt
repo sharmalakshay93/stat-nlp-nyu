@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Lakshay
+   last: Sharma
+email: ls4170@nyu.edu
+leaderboard: el_sharma
