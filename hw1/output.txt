@@ -1,3 +1,11 @@
+Using base path: DATA/data1
+Using model: katz-trigram
+HUB Perplexity:  487.87810451550166
+WER Baselines:
+  Best Path:  0.0
+  Worst Path: 0.21014009339559706
+  Avg Path:   0.11927055936159012
+
 GUESS:	AM: -2.66E03	LM: -6.60E01	Total: -2.73E03	[in, tokyo, foreign, exchange, trading, yesterday, the, yen, increased, against, the, dollar]
 GOLD:	AM: -2.66E03	LM: -6.60E01	Total: -2.73E03	[in, tokyo, foreign, exchange, trading, yesterday, the, yen, increased, against, the, dollar]
 
@@ -300,3 +308,15 @@ GOLD:	AM: -2.13E03	LM: -8.88E01	Total: -2.22E03	[yesterday, many, corn, futures,
 
 GUESS:	AM: -9.69E02	LM: -1.61E01	Total: -9.85E02	[he, could, n't, be, reached, for, comment]
 GOLD:	AM: -9.67E02	LM: -1.93E01	Total: -9.86E02	[she, could, n't, be, reached, for, comment]
+HUB Word Error Rate: 0.06871247498332221
+Generated Sentences:
+  [january, o.]
+  [fifth, higher, the, of, it, p., million, classic, will, h., to, their, to, of, including, any, still, remained, their, this, fifty, glory, eighty, markets, system, nacion, is, cross, s., of, helping, daylight, taxpayers, its, since, settle, all, the, business, for, market, a, congress, the, that]
+  [company, four, in, of, valley, already, three, a]
+  [the, one, suggest, received, decelerating, europe, be, that, including, composite, so, programs]
+  [figures, ernst, dollars, a, they, says]
+  [source, to, is, shearson, had, our, floor, san, minimum]
+  []
+  [more, dollars, system, the, to, mr., condition, and, thirty, approvals, saves, he, in]
+  [judge, other, is, midyear, difficulties, pay, and, already, committees, the, you, way, by, banco, the, meantime, up, include, issues, were, on, ten, is, at, are, reduction, black, solution, the, separate, of, also, sachs, as, the, of, today, one, are, the, new, is, for, but, dow, at, garratt, thousand, same, a, three, full, was, star, officials, two, buy, to, centers, full, average, damaged, with, floor, in, income, ortega, face, and, sas, and, 's, issues, holders, one, improvement, arbitrage, on, in, it, gencorp, point]
+  [only, eleven, and, trying, on, been, dyke, guarantees, the]
