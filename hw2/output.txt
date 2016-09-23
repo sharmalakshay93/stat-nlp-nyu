@@ -1,3 +1,4 @@
+Lakshays-MacBook-Pro:classes lakshay$ java nlp.assignments.ProperNameTester -path DATA/data2 -model maxent -test test -verbose > this_output.txt
 Example: A-200 Shampoo Concentrate guess=drug gold= confidence=0.8071124026589127
 Example: Acet-2 guess=drug gold= confidence=0.9839019584629054
 Example: Actifed Cold & Sinus Caplets 26 guess=drug gold= confidence=0.9996059012243553
