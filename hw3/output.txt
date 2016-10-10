@@ -649,7 +649,7 @@ view	NN
 is	VBZ
 that	IN
 the	DT
-Gateses	NNP
+Gateses	NNS
 are	VBP
 very	RB
 good	JJ
@@ -2712,7 +2712,7 @@ $	$
 And	CC
 ......	:
 You	PRP
-HAVE	VBZ
+HAVE	VBP
 To	TO
 Follow	VB
 The	DT
@@ -4325,7 +4325,7 @@ one	NN
 Loose	NNP
 '	POS
 200,000	CD
-AK47's	NNP
+AK47's	NNS
 ?	.
 
 "	NNP
@@ -10909,9 +10909,9 @@ there	RB
 ,	,
 since	IN
 local	JJ
-Sunnis	NN
-either	CC
-remain	VB
+Sunnis	NNS
+either	RB
+remain	VBP
 committed	VBN
 to	IN
 Arab	JJ
@@ -10966,7 +10966,7 @@ an	DT
 elevation	NN
 of	IN
 the	DT
-Shiites	NNP
+Shiites	NNPS
 and	CC
 Kurds	NNPS
 ,	,
@@ -11126,7 +11126,7 @@ US	NNP
 standing	VBG
 with	IN
 local	JJ
-Iraqis	NNP
+Iraqis	NNS
 .	.
 
 Xinhua	NNP
@@ -15460,7 +15460,7 @@ spring	NN
 ,	,
 killing	VBG
 600	CD
-Iraqis	NN
+Iraqis	NNS
 ,	,
 most	JJS
 of	IN
@@ -17581,8 +17581,8 @@ Muhammad	NNP
 .	.
 
 (	(
-Most	NNP
-Salafis	NNP
+Most	JJS
+Salafis	NNS
 are	VBP
 not	RB
 militant	JJ
@@ -18700,7 +18700,7 @@ Sharon	NNP
 assassination	NN
 of	IN
 major	JJ
-Hamas	NNP
+Hamas	NN
 leaders	NNS
 has	VBZ
 also	RB
@@ -18776,9 +18776,9 @@ best	JJS
 recruiting	NN
 posters	NNS
 for	IN
-al	NNP
+al	JJ
 -	HYPH
-Qaida	NNP
+Qaida	NN
 with	IN
 young	JJ
 Muslim	JJ
@@ -19642,7 +19642,7 @@ same	JJ
 rights	NNS
 as	IN
 other	JJ
-Iraqis	NNP
+Iraqis	NNS
 .	.
 
 Al	NNP
