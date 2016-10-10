@@ -1311,7 +1311,7 @@ ca	MD
 n't	RB
 .	.
 
-Meiring	NNP
+Meiring	VBG
 's	POS
 crimes	NNS
 are	VBP
@@ -1604,9 +1604,9 @@ his	PRP$
 freedom	NN
 .	.
 
-Meiring	NNP
+Meiring	NN
 is	VBZ
-more	RBR
+more	JJR
 than	IN
 an	DT
 embarrassment	NN
@@ -2138,7 +2138,7 @@ PONCHATOULA	NNP
 La.	NNP
 --	:
 
-Sheriff	NNP
+Sheriff	NN
 's	POS
 deputies	NNS
 in	IN
@@ -2568,7 +2568,7 @@ come	VB
 back	RP
 .	.
 
-Hey	CC
+Hey	NNP
 I	PRP
 just	RB
 love	VBP
@@ -2772,7 +2772,7 @@ end	NN
 Bob	NNP
 Dylan	NNP
 
-Afraid	NNP
+Afraid	JJ
 I	PRP
 do	VBP
 n't	RB
@@ -2967,7 +2967,7 @@ al	NNP
 Qaeda	NNP
 .	.
 
-Amnesty	DT
+Amnesty	NN
 chief	JJ
 spokesman	NN
 Mike	NNP
@@ -3706,7 +3706,7 @@ Child	NN
 Murders	NNS
 :	:
 
-Dekalb	NNP
+Dekalb	NN
 County	NNP
 Police	NNP
 Chief	NNP
@@ -5358,7 +5358,7 @@ http://www.sploid.com/news/2006/05/evil_priest_gui.php	NN
 Umm	NNP
 ...	:
 
-Question	NNP
+Question	NN
 Mark	NNP
 
 Jimmy	NNP
@@ -5872,7 +5872,7 @@ false	JJ
 Christians	NNS
 .	.
 
-Irony	NNP
+Irony	NN
 is	VBZ
 dead	JJ
 ...	:
@@ -5983,8 +5983,8 @@ barren	JJ
 boring	JJ
 .	.
 
-Imaginary	NNP
-good	RB
+Imaginary	JJ
+good	NN
 is	VBZ
 boring	JJ
 ;	:
@@ -6003,7 +6003,7 @@ intoxicating	VBG
 Simone	NNP
 Weil	NNP
 
-Starroute	NNP
+Starroute	NN
 :	:
 
 I	PRP
@@ -7053,7 +7053,7 @@ into	IN
 play	NN
 .	.
 
-Confused	NNP
+Confused	JJ
 ?	.
 
 Good	NNP
@@ -7139,7 +7139,7 @@ http://en.wikipedia.org/wiki/John_Balance	NN
 
 http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	NNP
 
-Balance	NNP
+Balance	NN
 died	VBD
 in	IN
 2004	CD
@@ -7351,7 +7351,7 @@ they	PRP
 delivered	VBD
 .	.
 
-Kindly	DT
+Kindly	RB
 young	JJ
 men	NNS
 ,	,
@@ -7557,7 +7557,7 @@ Grande	NNP
 Blood	NNP
 .	.
 
-Important	NNP
+Important	JJ
 Kos	NNP
 Diary	NNP
 about	IN
@@ -13032,7 +13032,7 @@ in	IN
 Jordan	NNP
 .	.
 
-Secular	DT
+Secular	JJ
 Arab	JJ
 nationalist	JJ
 groups	NNS
@@ -15978,9 +15978,9 @@ that	DT
 campaign	NN
 .	.
 
-WADE	NNP
-GOODWYN	NNP
-reporting	NN
+WADE	NN
+GOODWYN	IN
+reporting	VBG
 :	:
 
 In	IN
@@ -16138,7 +16138,7 @@ construction	NN
 business	NN
 .	.
 
-Prominent	NNP
+Prominent	JJ
 Southern	NNP
 Republicans	NNPS
 were	VBD
@@ -17611,7 +17611,7 @@ Pietists	NNS
 )	)
 .	.
 
-Monotheism	NNP
+Monotheism	NN
 and	CC
 Holy	NNP
 War	NNP
@@ -18606,7 +18606,7 @@ at	IN
 Newsday	NNP
 .	.
 
-Excerpt	NNP
+Excerpt	NN
 :	:
 
 "	NNP
@@ -21319,7 +21319,7 @@ makes	VBZ
 sense	NN
 .	.
 
-Acquiring	DT
+Acquiring	VBG
 open	JJ
 source	NN
 talent	NN
