@@ -2712,7 +2712,7 @@ $	$
 And	CC
 ......	:
 You	PRP
-HAVE	RB
+HAVE	VBZ
 To	TO
 Follow	VB
 The	DT
@@ -4990,7 +4990,7 @@ had	VBD
 grown	VBN
 up	RP
 in	IN
-Mujahedeen	DT
+Mujahedeen	NNP
 schools	NNS
 in	IN
 Ashraf	NNP
@@ -5206,7 +5206,7 @@ government	NN
 tried	VBD
 to	TO
 absorb	VB
-Mujahedeen	DT
+Mujahedeen	NNP
 children	NNS
 into	IN
 their	PRP$
@@ -5395,7 +5395,7 @@ it	PRP
 Bush	NNP
 successfully	RB
 makes	VBZ
-Satan	RB
+Satan	NNP
 look	VB
 good	JJ
 in	IN
@@ -7007,7 +7007,7 @@ imaginary	JJ
 '	''
 Whore	NN
 of	IN
-Babalon	NN
+Babalon	NNP
 and	CC
 the	DT
 actually	RB
@@ -7755,11 +7755,11 @@ the	DT
 questions	NNS
 permeate	VBP
 the	DT
-entire	NN
+entire	JJ
 '	POS
-Western	JJ
+Western	NNP
 (	(
-Mystery	NN
+Mystery	NNP
 )	)
 Tradition	NN
 '	''
@@ -8247,9 +8247,9 @@ or	CC
 humming	VBG
 along	RP
 to	IN
-'	POS
-Onward	JJ
-Christian	JJ
+'	''
+Onward	NNP
+Christian	NNP
 Soldiers	NNS
 '	POS
 .	.
@@ -9820,9 +9820,9 @@ of	IN
 the	DT
 top	JJ
 25	CD
-al	JJ
+al	NNP
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 commanders	NNS
 ,	,
 the	DT
@@ -10042,7 +10042,7 @@ coup	NN
 against	IN
 him	PRP
 by	IN
-Islamist	DT
+Islamist	NN
 junior	JJ
 officers	NNS
 ,	,
@@ -10145,7 +10145,7 @@ hand	NN
 it	PRP
 should	MD
 pressure	VB
-Musharraf	JJ
+Musharraf	NNP
 to	TO
 take	VB
 off	RP
@@ -10187,8 +10187,8 @@ be	VB
 lifted	VBN
 on	IN
 the	DT
-mainstream	NN
-Muslim	IN
+mainstream	JJ
+Muslim	NNP
 League	NNP
 -	HYPH
 N	NNP
@@ -10700,8 +10700,8 @@ in	IN
 mind	NN
 is	VBZ
 that	IN
-Sunni	DT
-Arab	JJ
+Sunni	NNP
+Arab	NNP
 nationalists	NNS
 and	CC
 Baathists	NNS
@@ -10919,7 +10919,7 @@ nationalism	NN
 or	CC
 have	VBP
 become	VBN
-Sunni	IN
+Sunni	NNP
 fundamentalists	NNS
 or	CC
 even	JJ
@@ -10986,7 +10986,7 @@ the	DT
 eastern	JJ
 city	NN
 of	IN
-Baqubah	NN
+Baqubah	NNP
 ,	,
 guerrillas	NNS
 detonated	VBD
@@ -14802,9 +14802,9 @@ and	CC
 focused	VBN
 of	IN
 the	DT
-al	JJ
+al	NNP
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 experts	NNS
 ,	,
 from	IN
@@ -15454,13 +15454,13 @@ the	DT
 disastrous	JJ
 siege	NN
 of	IN
-Fallujah	DT
+Fallujah	NNP
 last	JJ
 spring	NN
 ,	,
 killing	VBG
 600	CD
-Iraqis	NNS
+Iraqis	NN
 ,	,
 most	JJS
 of	IN
@@ -15979,8 +15979,8 @@ campaign	NN
 .	.
 
 WADE	NN
-GOODWYN	IN
-reporting	VBG
+GOODWYN	NN
+reporting	NN
 :	:
 
 In	IN
@@ -17462,7 +17462,7 @@ Upper	NNP
 Egypt	NNP
 ,	,
 especially	RB
-Asyut	NNS
+Asyut	IN
 and	CC
 environs	NNS
 )	)
@@ -17650,7 +17650,7 @@ is	VBZ
 that	DT
 local	JJ
 Iraqi	JJ
-Sunni	NN
+Sunni	NNP
 fundamentalists	NNS
 opposed	VBN
 to	IN
@@ -18129,9 +18129,9 @@ among	IN
 the	DT
 more	RBR
 militant	JJ
-Sunni	IN
-Muslim	JJ
-clerics	NNS
+Sunni	NNP
+Muslim	NNP
+clerics	NNP
 of	IN
 AMS	NNP
 and	CC
@@ -18164,9 +18164,9 @@ attack	NN
 on	IN
 Mahdi	NNP
 Army	NNP
-militiamen	NNS
+militiamen	NNP
 in	IN
-Najaf	NN
+Najaf	NNP
 .	.
 
 Most	JJS
@@ -18193,7 +18193,7 @@ of	IN
 whom	WP
 had	VBD
 supported	VBN
-Saddam	NN
+Saddam	NNP
 and	CC
 his	PRP$
 anti-Shiite	JJ
@@ -18280,7 +18280,7 @@ mounted	VBD
 demonstrations	NNS
 against	IN
 the	DT
-Fallujah	NN
+Fallujah	NNP
 campaign	NN
 in	IN
 Tikrit	NNP
@@ -18700,7 +18700,7 @@ Sharon	NNP
 assassination	NN
 of	IN
 major	JJ
-Hamas	NN
+Hamas	NNP
 leaders	NNS
 has	VBZ
 also	RB
@@ -18776,9 +18776,9 @@ best	JJS
 recruiting	NN
 posters	NNS
 for	IN
-al	JJ
+al	NNP
 -	HYPH
-Qaida	NN
+Qaida	NNP
 with	IN
 young	JJ
 Muslim	JJ
@@ -18829,7 +18829,7 @@ in	IN
 the	DT
 town	NN
 of	IN
-Qaim	NN
+Qaim	NNP
 ,	,
 near	IN
 the	DT
@@ -19667,7 +19667,7 @@ a	DT
 1982	CD
 massacre	NN
 at	IN
-Dujail	NN
+Dujail	NNP
 has	VBZ
 died	VBN
 .	.
@@ -20059,9 +20059,9 @@ April	NNP
 2001	CD
 ,	,
 the	DT
-IAEA	NN
+IAEA	NNP
 published	VBN
-Fifteen	IN
+Fifteen	CD
 Years	NNS
 after	IN
 the	DT
@@ -20670,7 +20670,7 @@ mode	NN
 They	PRP
 have	VBP
 acquired	VBN
-Urchin	NN
+Urchin	NNP
 ,	,
 Zipdash	NNP
 ,	,
@@ -20867,7 +20867,7 @@ who	WP
 joined	VBD
 me	PRP
 at	IN
-Google	IN
+Google	NNP
 this	DT
 week	NN
 .	.
@@ -20983,7 +20983,7 @@ to	IN
 the	DT
 success	NN
 of	IN
-Mozilla	DT
+Mozilla	NN
 software	NN
 over	IN
 the	DT
@@ -21058,11 +21058,11 @@ year	NN
 that	WDT
 formalizes	VBZ
 the	DT
-Google	JJ
+Google	NNP
 -	HYPH
-Mozilla	NN
+Mozilla	NNP
 /	SYM
-Firefox	NN
+Firefox	NNP
 relationship	NN
 .	.
 
@@ -21301,7 +21301,7 @@ of	IN
 the	DT
 future	NN
 in	IN
-Epic	NN
+Epic	NNP
 .	.
 
 Thanks	NNS
