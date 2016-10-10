@@ -2056,7 +2056,7 @@ since	IN
 retiring	VBG
 .	.
 
-http://www.disinfo.com/archive/pages/dossier/id334/pg1/	CD
+http://www.disinfo.com/archive/pages/dossier/id334/pg1/	NNP
 
 Last	JJ
 week	NN
@@ -4325,7 +4325,7 @@ one	NN
 Loose	NNP
 '	POS
 200,000	CD
-AK47's	CD
+AK47's	NNP
 ?	.
 
 "	NNP
@@ -5353,7 +5353,7 @@ that	DT
 priest	NN
 conviction	NN
 :	:
-http://www.sploid.com/news/2006/05/evil_priest_gui.php	CD
+http://www.sploid.com/news/2006/05/evil_priest_gui.php	NN
 
 Umm	NNP
 ...	:
@@ -5408,7 +5408,7 @@ like	IN
 that	DT
 .	.
 
-http://www.laweekly.com/general/features/satan-loves-you/13454/	CD
+http://www.laweekly.com/general/features/satan-loves-you/13454/	NNP
 
 "	IN
 Another	DT
@@ -9815,7 +9815,7 @@ kill	VB
 about	IN
 2	CD
 /	SYM
-3s	CD
+3s	NNS
 of	IN
 the	DT
 top	JJ
@@ -10979,7 +10979,7 @@ quietly	RB
 .	.
 
 See	NNP
-http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	NNP
+http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	CD
 
 In	IN
 the	DT
@@ -20391,7 +20391,7 @@ a	DT
 child	NN
 in	IN
 the	DT
-50's	CD
+50's	VBZ
 I	PRP
 had	VBD
 a	DT
