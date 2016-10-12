@@ -9854,9 +9854,9 @@ priorities	NNS
 
 These	DT
 are	VBP
-1	CD
+1	LS
 )	)
-Assassinate	NNP
+Assassinate	VB
 or	CC
 overthrow	VB
 Gen.	NNP
